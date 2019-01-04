@@ -1,2 +1,2 @@
 # SmallProjects
-Takes integers and prints them out as words
+A collection of small projects coded at home
